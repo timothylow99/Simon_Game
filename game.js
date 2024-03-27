@@ -10,7 +10,7 @@ $(document).keypress(function(){
         
         started = true;
         nextSequence();
-    
+    }
 });
 
 
